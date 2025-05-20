@@ -1,0 +1,18 @@
+Team Members:
+
+1. Juan Diego Susunaga Velásquez - A01764884
+   Partes del proyecto:
+   - 1. Búsqueda de Subcadenas (String Matching)
+   - 2. Detección de Palíndromos
+
+2. Manuel Alejandro Cruz Valladares - A00836441
+   Parte del proyecto:
+   - 3. Subsecuencia Común Más Larga (LCS)
+
+3. Adrián Salazar Rodríguez - A00835314
+   Parte del proyecto:
+   - Reflexión y PDF de análisis
+
+4. Alan Sanmiguel Garay - A00837404
+   Parte del proyecto:
+   - Implementación del archivo principal (main)

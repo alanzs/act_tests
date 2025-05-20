@@ -1,0 +1,3 @@
+/Users/alan/Downloads/Actividad_integradora1/cmake-build-debug/CMakeFiles/Actividad_integradora1.dir
+/Users/alan/Downloads/Actividad_integradora1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Downloads/Actividad_integradora1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
